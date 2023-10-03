@@ -9,9 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ThusyanthanJ&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThusyanthanJ&theme=radical&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThusyanthanJ&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ThusyanthanJ&icon=5&color=1)](https://visitcount.itsvg.in)
 
