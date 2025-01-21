@@ -1,5 +1,5 @@
 # 💫 About Me
-## I'm 3rd year undergraduate at University of Moratuwa in the Computer Science & Engineering specializing in Data Science
+## I'm Final year undergraduate at University of Moratuwa in the Computer Science & Engineering specializing in Data Science
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thusyanthan-jeyathasan-16521b251) 
 
